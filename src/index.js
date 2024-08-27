@@ -1,4 +1,4 @@
-const { niceLogger } = require("./niceLogger");
+const { niceLogger } = require("./niceLogger.js");
 
 
 niceLogger
