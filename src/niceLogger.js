@@ -4,6 +4,11 @@ function niceLogger(){
     return "Hello world!";
 }
 
+function messageRepeater(messageRepeater){
+
+}
+
 module.exports = {
-    niceLogger
+    niceLogger,
+    messageRepeater
 }
